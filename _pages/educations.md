@@ -1,8 +1,8 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2024.01 - Now*, Doctor of Philosophy, Department of EEE, The Hong Kong Polytechnic University, Hong Kong SAR.
+- *2021.07 - 2023.07*, Master of Science, Department of EEE, Nanyang Technological University & Technical University of Munich, Singapore.
+- *2019.09 - 2021.06*, Bachelor of Engineering with 1st Class Honours, University of Birmingham, UK.
 
 # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
