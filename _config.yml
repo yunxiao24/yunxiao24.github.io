@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "LING Yunxiao"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : "1st Year PhD Student @ PolyU, HK.Focusing on Power System"
+description              : "1st Year PhD Student @ PolyU, HK. Focusing on Power System"
 url                      : https://yunxiao24.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
