@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Internship
+Internships
 ======
 - *2020.06 - 2020.07*, Electric Power Research Institute, State Grid China, Chengdu.
 - *2020.07 - 2020.09*, Southwest Electric Power Design Institute, Chengdu.
