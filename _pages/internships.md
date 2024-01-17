@@ -1,3 +1,15 @@
+---
+layout: archive
+#title: "Internships"
+permalink: /internships/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.educations reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Internship
 ======

@@ -1,3 +1,15 @@
+---
+layout: archive
+#title: "Eduations"
+permalink: /educations/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.educations reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Education
 ======
