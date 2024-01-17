@@ -21,6 +21,7 @@ Me and my lovely girlfriend.
 My cat
 ======
 My baby cat ZhuBaoBao!
+
 <img src="/images/zbb.png" width="50%">
 <img src="/images/zbb2.png" width="50%">
 
