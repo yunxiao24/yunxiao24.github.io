@@ -2,16 +2,16 @@
 main:
 
   - title: "Educations"
-    url: /educations/ 
+    url: /educations.md/ 
     
   - title: "Publications"
-    url: /publications/   
+    url: /publications.md/   
 
   - title: "Services"
-    url: /services/    
+    url: /services.md/    
     
   - title: "Internships"
-    url: /internship/
+    url: /internship.md/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
