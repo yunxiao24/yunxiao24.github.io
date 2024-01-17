@@ -14,12 +14,13 @@ author_profile: true
 My girlfriend
 ======
 Me and my lovely girlfriend.
-<img src="/images/zzb.png" width="500">
-<img src="/images/zzb1.png" width="500">
+
+<img src="/images/zzb.png" width="50%">
+<img src="/images/zzb1.png" width="50%">
 
 My cat
 ======
 My baby cat ZhuBaoBao!
-<img src="/images/zbb.png" width="500">
-<img src="/images/zbb2.png" width="500">
+<img src="/images/zbb.png" width="50%">
+<img src="/images/zbb2.png" width="50%">
 
